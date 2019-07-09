@@ -1,7 +1,8 @@
 
-# gesturetest
+# AtoZSliderCustomized
+this is the  customized version of existing A to Z slider
 
-A new Flutter project.
+![snapshot](https://i.ibb.co/d43kX3B/Screenshot-20190709-104422.jpg)
 
 ## Getting Started
 
@@ -16,6 +17,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 =======
-# AtoZSliderCustomized
-this is the  customized version of existing A to Z slider
+
 
